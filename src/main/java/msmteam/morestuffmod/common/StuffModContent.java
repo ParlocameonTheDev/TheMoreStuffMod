@@ -120,7 +120,7 @@ public class StuffModContent {
         Registry.register(Registry.ITEM, new Identifier(StuffMod.MODID, DyedStoneColor.MAGENTA.name), new BlockItem(MAGENTA_DYED_STONE, new Item.Settings().group(StuffMod.TAB)));
         Registry.register(Registry.ITEM, new Identifier(StuffMod.MODID, DyedStoneColor.PINK.name), new BlockItem(PINK_DYED_STONE, new Item.Settings().group(StuffMod.TAB)));
 
-        // Other Blocks
+        // Other Block Items
         Registry.register(Registry.ITEM, new Identifier(StuffMod.MODID, "teleporter"), new BlockItem(TELEPORTER, new Item.Settings().group(StuffMod.TAB)));
     }
 
