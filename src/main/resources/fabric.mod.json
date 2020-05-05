@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "id": "stuffmodport",
   "version": "${version}",
-  "name": "The Stuff Mod",
-  "description": "A port of the Forge mod \"The Stuff Mod\" to Fabric.",
+  "name": "The More Stuff Mod",
+  "description": "A recreation and sequel of the Forge mod \"The Stuff Mod\" to Fabric.",
   "authors": [
     "Maowcraft",
     "Parlocameon"
