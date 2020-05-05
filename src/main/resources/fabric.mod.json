@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "stuffmodport",
+  "version": "${version}",
+  "name": "The Stuff Mod",
+  "description": "A port of the Forge mod \"The Stuff Mod\" to Fabric.",
+  "authors": [
+    "Maowcraft",
+    "Parlocameon"
+  ],
+  "contact": {
+    "sources": "https://github.com/Maowcraft/TheStuffMod-Repo-Drop"
+  },
+  "license": "LGPL-2.1",
+  "icon": "assets/stuffmodport/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "maowcraft.stuffmodport.StuffMod"
+    ],
+    "client": [
+      "maowcraft.stuffmodport.StuffModClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.8.2+build.194",
+    "fabric": "*",
+    "minecraft": "1.16-alpha.20.18.a"
+  }
+}

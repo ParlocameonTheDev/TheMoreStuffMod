@@ -1,0 +1,7 @@
+    {
+      "parent": "block/cube_all",
+      "textures": {
+        "all": "stuffmodport:block/black_dyed_stone"
+      }
+    }
+

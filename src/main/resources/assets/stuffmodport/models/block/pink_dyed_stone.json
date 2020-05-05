@@ -1,0 +1,7 @@
+    {
+      "parent": "block/cube_all",
+      "textures": {
+        "all": "stuffmodport:block/pink_dyed_stone"
+      }
+    }
+
