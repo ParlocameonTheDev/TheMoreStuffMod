@@ -1,7 +1,7 @@
-package maowcraft.stuffmodport;
+package msmteam.morestuffmod;
 
-import maowcraft.stuffmodport.client.gui.controller.TeleporterController;
-import maowcraft.stuffmodport.client.gui.screen.TeleporterScreen;
+import msmteam.morestuffmod.client.gui.controller.TeleporterController;
+import msmteam.morestuffmod.client.gui.screen.TeleporterScreen;
 import net.fabricmc.api.ClientModInitializer;
 import net.fabricmc.api.Environment;
 import net.fabricmc.api.EnvType;

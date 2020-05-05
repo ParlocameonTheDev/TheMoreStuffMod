@@ -1,7 +1,7 @@
-package maowcraft.stuffmodport;
+package msmteam.morestuffmod;
 
-import maowcraft.stuffmodport.client.gui.controller.TeleporterController;
-import maowcraft.stuffmodport.common.StuffModContent;
+import msmteam.morestuffmod.common.StuffModContent;
+import msmteam.morestuffmod.client.gui.controller.TeleporterController;
 import net.fabricmc.api.ModInitializer;
 import net.fabricmc.fabric.api.client.itemgroup.FabricItemGroupBuilder;
 import net.fabricmc.fabric.api.container.ContainerProviderRegistry;
