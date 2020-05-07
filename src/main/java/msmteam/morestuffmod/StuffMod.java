@@ -14,6 +14,7 @@ import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
 public class StuffMod implements ModInitializer {
+	//Testing useless fucking GPG keys now that it decided to work?
     public static final String MODID = "morestuffmod";
 
     public static final ItemGroup TAB = FabricItemGroupBuilder.build(new Identifier(MODID, "tab"), () -> new ItemStack(Items.STONE));
