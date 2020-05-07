@@ -18,6 +18,7 @@ jobs:
 
     - name: "Run Fabric Tests"
       uses: Geometrically/fabric-test-runner@v1
+      id: testRunner
       with:
         minecraftVersion: 1.15.2
     
