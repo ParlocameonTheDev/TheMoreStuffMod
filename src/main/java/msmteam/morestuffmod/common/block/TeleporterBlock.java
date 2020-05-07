@@ -1,9 +1,9 @@
 package msmteam.morestuffmod.common.block;
 
+import msmteam.morestuffmod.common.item.TeleporterEye;
 import msmteam.morestuffmod.common.StuffModContent;
 import msmteam.morestuffmod.StuffMod;
 import msmteam.morestuffmod.common.block.entity.TeleporterBlockEntity;
-import msmteam.morestuffmod.common.item.TeleporterEye;
 import msmteam.morestuffmod.util.CoordEntry;
 import net.fabricmc.fabric.api.container.ContainerProviderRegistry;
 import net.minecraft.block.Block;

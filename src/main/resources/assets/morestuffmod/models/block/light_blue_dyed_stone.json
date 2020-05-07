@@ -1,0 +1,7 @@
+    {
+      "parent": "block/cube_all",
+      "textures": {
+        "all": "stuffmodport:block/light_blue_dyed_stone"
+      }
+    }
+

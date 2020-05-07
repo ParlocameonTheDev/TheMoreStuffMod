@@ -13,8 +13,6 @@ import net.minecraft.recipe.RecipeType;
 import net.minecraft.screen.ScreenHandlerContext;
 import net.minecraft.world.World;
 
-import java.util.ArrayList;
-
 
 public class TeleporterController extends CottonCraftingController {
     public static BlockEntity blockEntity;

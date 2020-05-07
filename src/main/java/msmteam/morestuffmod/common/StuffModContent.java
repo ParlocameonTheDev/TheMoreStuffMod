@@ -1,8 +1,8 @@
 package msmteam.morestuffmod.common;
 
-import msmteam.morestuffmod.StuffMod;
 import msmteam.morestuffmod.common.block.DyedStoneBlock;
 import msmteam.morestuffmod.common.block.TeleporterBlock;
+import msmteam.morestuffmod.StuffMod;
 import msmteam.morestuffmod.common.block.entity.TeleporterBlockEntity;
 import msmteam.morestuffmod.util.DyedStoneColor;
 import net.fabricmc.fabric.api.object.builder.v1.block.FabricBlockSettings;

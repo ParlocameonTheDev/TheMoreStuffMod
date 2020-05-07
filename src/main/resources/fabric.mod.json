@@ -1,25 +1,25 @@
 {
   "schemaVersion": 1,
-  "id": "stuffmodport",
+  "id": "morestuffmod",
   "version": "${version}",
   "name": "The More Stuff Mod",
-  "description": "A recreation and sequel of the Forge mod \"The Stuff Mod\" to Fabric.",
+  "description": "A recreation and sequel of the Forge mod \"The Stuff Mod\", but in Fabric.",
   "authors": [
     "Maowcraft",
     "Parlocameon"
   ],
   "contact": {
-    "sources": "https://github.com/Maowcraft/TheStuffMod-Repo-Drop"
+    "sources": "https://github.com/ParlocameonTheDev/TheMoreStuffMod"
   },
   "license": "LGPL-2.1",
-  "icon": "assets/stuffmodport/icon.png",
+  "icon": "assets/morestuffmod/icon.png",
   "environment": "*",
   "entrypoints": {
     "main": [
-      "maowcraft.stuffmodport.StuffMod"
+      "msmteam.morestuffmod.StuffMod"
     ],
     "client": [
-      "maowcraft.stuffmodport.StuffModClient"
+      "msmteam.morestuffmod.StuffModClient"
     ]
   },
   "depends": {
